@@ -29,7 +29,7 @@ make -j
 
 ## Run
 
-After building hte repository, just run the executable:
+After building the repository, just run the executable:
 
 ```bash
 cd build
