@@ -1,0 +1,8 @@
+[submodule "opcua-animal-cs"]
+	path = opcua-animal-cs
+	url = https://github.com/Pro/opcua-animal-cs
+	branch = master
+[submodule "open62541"]
+	path = open62541
+	url = https://github.com/open62541/open62541
+	branch = master
